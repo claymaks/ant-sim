@@ -1,2 +1,6 @@
 maps/*
 *.mp4
+
+__pycache__
+.DS_Store
+venv/*
